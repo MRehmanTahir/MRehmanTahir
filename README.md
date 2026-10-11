@@ -1,89 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,25:0d1b4b,50:1a2f6b,75:1e3a8a,100:2563eb&height=230&section=header&text=Muhammad%20Rehman%20Tahir&fontSize=50&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%7C%20.NET%20Developer%20%7C%20ASP.NET%20Core%20Specialist&descAlignY=63&descSize=16&descColor=93c5fd&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,25:0d1b4b,50:1a2f6b,75:1e3a8a,100:2563eb&height=220&section=header&text=Muhammad%20Rehman%20Tahir&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20.NET%20%C2%B7%20React%20%C2%B7%20Cloud&descAlignY=60&descSize=17&descColor=93c5fd&animation=fadeIn" width="100%" alt="Muhammad Rehman Tahir — Full-Stack Software Engineer"/>
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&random=false&width=750&lines=3%2B+Years+of+Professional+.NET+Engineering+%F0%9F%9A%80;Building+Scalable+%26+Production-Ready+Applications;Clean+Architecture+%7C+Full-Stack+%7C+Cloud-Deployed;From+UI+to+Backend+to+Deployment+—+I+Own+It+All)](https://git.io/typing-svg)
-
-</div>
+<a href="https://muhammad-rehman-tahir.vercel.app">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1400&color=3B82F6&center=true&vCenter=true&width=720&height=44&lines=I+turn+ideas+into+software+people+love.;Clean%2C+scalable%2C+production-ready+applications.;NuGet+package+author+%C2%B7+1%2C400%2B+downloads.;From+UI+to+backend+to+deployment+%E2%80%94+I+own+it+all." alt="I turn ideas into software people love."/>
+</a>
 
 <br/>
 
----
+<a href="https://muhammad-rehman-tahir.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1e3a8a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/muhammad-rehman-tahir/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.upwork.com/freelancers/~0148574dffcd8fbf18"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
+<a href="https://www.nuget.org/profiles/Muhammad_Rehman_Tahir"><img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" alt="NuGet"/></a>
+<a href="mailto:dev.muhammadrehman@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<br/>
-
-## 👨‍💻 &nbsp;About Me
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-I'm **Muhammad Rehman Tahir**, a passionate and results-driven **Software Engineer** from **Rahim Yar Khan, Punjab, Pakistan**, with over **3 years of professional experience** building enterprise-grade .NET applications.
-
-My core expertise is **ASP.NET Core** — designing clean, scalable, and production-ready systems. I go beyond writing code by approaching every feature from a **user, business, and QA perspective**, ensuring real-world flows and edge cases are both covered with precision.
-
-From crafting **responsive UIs** to building **RESTful APIs**, designing **optimized database schemas**, and integrating **payment gateways** — I deliver end-to-end, complete solutions with quality and performance always in mind.
-
-I am equally passionate about **mentoring junior developers**, enforcing engineering best practices, and driving team excellence through clean architecture and code review culture.
-
-<br clear="right"/>
-
-<br/>
-
----
-
-<br/>
-
-## 🌟 &nbsp;Core Strengths
-
-<div align="center">
+<br/><br/>
 
 <table>
 <tr>
-<td align="center" width="185">
-<img src="https://img.icons8.com/fluency/52/source-code.png" width="46"/><br/><br/>
-<b>Clean Code</b><br/>
-<sub>SOLID principles, readable & maintainable codebases built for the long run</sub>
-</td>
-<td align="center" width="185">
-<img src="https://img.icons8.com/fluency/52/layers.png" width="46"/><br/><br/>
-<b>Architecture</b><br/>
-<sub>Clean Architecture & Design Patterns applied to real production systems</sub>
-</td>
-<td align="center" width="185">
-<img src="https://img.icons8.com/fluency/52/cloud.png" width="46"/><br/><br/>
-<b>Cloud & DevOps</b><br/>
-<sub>Azure deployments, CI/CD pipelines & GitHub Actions automation</sub>
-</td>
-<td align="center" width="185">
-<img src="https://img.icons8.com/fluency/52/test-tube.png" width="46"/><br/><br/>
-<b>QA Mindset</b><br/>
-<sub>Full edge case coverage with Playwright, Selenium & manual testing</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="185">
-<img src="https://img.icons8.com/fluency/52/api-settings.png" width="46"/><br/><br/>
-<b>API Engineering</b><br/>
-<sub>RESTful APIs, SignalR real-time features & 3rd-party integrations</sub>
-</td>
-<td align="center" width="185">
-<img src="https://img.icons8.com/fluency/52/data-configuration.png" width="46"/><br/><br/>
-<b>Database Design</b><br/>
-<sub>Optimized ERD & schema design across SQL Server, PostgreSQL & more</sub>
-</td>
-<td align="center" width="185">
-<img src="https://img.icons8.com/fluency/52/goal.png" width="46"/><br/><br/>
-<b>Business Thinking</b><br/>
-<sub>Features built with user experience & business outcomes at the core</sub>
-</td>
-<td align="center" width="185">
-<img src="https://img.icons8.com/fluency/52/conference-call.png" width="46"/><br/><br/>
-<b>Team Leadership</b><br/>
-<sub>Mentoring juniors, code reviews & establishing engineering standards</sub>
-</td>
+<td align="center" width="200"><h3>3+</h3><sub>Years of experience</sub></td>
+<td align="center" width="200"><h3>10+</h3><sub>Projects delivered</sub></td>
+<td align="center" width="200"><h3>6</h3><sub>NuGet packages published</sub></td>
+<td align="center" width="200"><h3>1,400+</h3><sub>NuGet downloads</sub></td>
 </tr>
 </table>
 
@@ -91,244 +29,293 @@ I am equally passionate about **mentoring junior developers**, enforcing enginee
 
 <br/>
 
----
+## 👋 About me
+
+I'm a **Full-Stack Software Engineer** from Rahim Yar Khan, Pakistan, with 3+ years of building enterprise-grade applications. My home base is **ASP.NET Core and .NET**, paired with **React, Angular and Next.js** on the frontend and **Azure / AWS** for deployment.
+
+I don't just write code. I look at every feature from the **user, business and QA** side, so the real flows and the edge cases are both covered before it reaches production.
+
+- 🏢 &nbsp;Full Stack Developer at **Watch How**
+- 📦 &nbsp;Author of **6 NuGet packages** used by other .NET developers
+- 🧩 &nbsp;Creator of **Inspectly**, a network toolkit for Chrome
+- 🎓 &nbsp;BS Software Engineering, The Islamia University of Bahawalpur
+- 🤝 &nbsp;Open to freelance and consulting work — [book a free call](https://muhammad-rehman-tahir.vercel.app/book)
 
 <br/>
 
-## 💼 &nbsp;Professional Experience
+## 📦 Open-source NuGet packages
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://www.nuget.org/packages/Rehman.DbSentinel/"><img src="https://muhammad-rehman-tahir.vercel.app/nuget/rehman-db-sentinel.png" alt="Rehman.DbSentinel"/></a>
+<h4>Rehman.DbSentinel</h4>
+<sub>Embedded, read-only database insights dashboard for .NET apps: schema explorer, SQL editor, audit log and change tracking.</sub>
+<br/><br/>
+<img src="https://img.shields.io/nuget/v/Rehman.DbSentinel?style=flat-square&color=2563eb&label=nuget" alt="version"/>
+<img src="https://img.shields.io/nuget/dt/Rehman.DbSentinel?style=flat-square&color=1e3a8a&label=downloads" alt="downloads"/>
+</td>
+<td width="33%" valign="top">
+<a href="https://www.nuget.org/packages/FlowBased.NetCore/"><img src="https://muhammad-rehman-tahir.vercel.app/nuget/flowbased-netcore.png" alt="FlowBased.NetCore"/></a>
+<h4>FlowBased.NetCore</h4>
+<sub>Documentation and business-flow framework for ASP.NET Core: docs portal, admin dashboard, flow versioning and full-text search.</sub>
+<br/><br/>
+<img src="https://img.shields.io/nuget/v/FlowBased.NetCore?style=flat-square&color=2563eb&label=nuget" alt="version"/>
+<img src="https://img.shields.io/nuget/dt/FlowBased.NetCore?style=flat-square&color=1e3a8a&label=downloads" alt="downloads"/>
+</td>
+<td width="33%" valign="top">
+<a href="https://www.nuget.org/packages/Rehman.Slugify/"><img src="https://muhammad-rehman-tahir.vercel.app/nuget/rehman-slugify.png" alt="Rehman.Slugify"/></a>
+<h4>Rehman.Slugify</h4>
+<sub>Lightweight library for SEO-friendly slugs: generate, validate, reverse to titles, batch and keep them unique.</sub>
+<br/><br/>
+<img src="https://img.shields.io/nuget/v/Rehman.Slugify?style=flat-square&color=2563eb&label=nuget" alt="version"/>
+<img src="https://img.shields.io/nuget/dt/Rehman.Slugify?style=flat-square&color=1e3a8a&label=downloads" alt="downloads"/>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://www.nuget.org/packages/LaunchKit.AspNetCore/"><img src="https://muhammad-rehman-tahir.vercel.app/nuget/launchkit-aspnetcore.png" alt="LaunchKit.AspNetCore"/></a>
+<h4>LaunchKit.AspNetCore</h4>
+<sub>One command makes an ASP.NET Core MVC site launch-ready: legal pages, error pages, sitemap.xml, robots.txt and llms.txt.</sub>
+<br/><br/>
+<img src="https://img.shields.io/nuget/v/LaunchKit.AspNetCore?style=flat-square&color=2563eb&label=nuget" alt="version"/>
+<img src="https://img.shields.io/nuget/dt/LaunchKit.AspNetCore?style=flat-square&color=1e3a8a&label=downloads" alt="downloads"/>
+</td>
+<td width="33%" valign="top">
+<a href="https://www.nuget.org/packages/LaunchKit.AspNetCore.Tools/"><img src="https://muhammad-rehman-tahir.vercel.app/nuget/launchkit-aspnetcore-tools.png" alt="LaunchKit.AspNetCore.Tools"/></a>
+<h4>LaunchKit.AspNetCore.Tools</h4>
+<sub>The cross-platform CLI for LaunchKit. Run <code>launchkit</code> from any terminal on Windows, macOS or Linux.</sub>
+<br/><br/>
+<img src="https://img.shields.io/nuget/v/LaunchKit.AspNetCore.Tools?style=flat-square&color=2563eb&label=nuget" alt="version"/>
+<img src="https://img.shields.io/nuget/dt/LaunchKit.AspNetCore.Tools?style=flat-square&color=1e3a8a&label=downloads" alt="downloads"/>
+</td>
+<td width="33%" valign="top">
+<a href="https://www.nuget.org/packages/Rehman.CurrencyTextify.Core/"><img src="https://muhammad-rehman-tahir.vercel.app/nuget/rehman-currency-textify-core.png" alt="Rehman.CurrencyTextify.Core"/></a>
+<h4>Rehman.CurrencyTextify.Core</h4>
+<sub>Converts amounts to spelled-out text and back across 8 currency systems, with zero dependencies.</sub>
+<br/><br/>
+<img src="https://img.shields.io/nuget/v/Rehman.CurrencyTextify.Core?style=flat-square&color=2563eb&label=nuget" alt="version"/>
+<img src="https://img.shields.io/nuget/dt/Rehman.CurrencyTextify.Core?style=flat-square&color=1e3a8a&label=downloads" alt="downloads"/>
+</td>
+</tr>
+</table>
+
+```bash
+dotnet add package Rehman.DbSentinel
+```
 
 <br/>
+
+## 🧩 Inspectly — network toolkit for Chrome
+
+<a href="https://inspectly-by-rehman-tahir.vercel.app"><img align="right" width="380" src="https://muhammad-rehman-tahir.vercel.app/extensions/inspectly.jpg" alt="Inspectly Chrome extension"/></a>
+
+A free Chrome extension for developers and QA engineers. Press Record to capture every API call, then pause, edit, replay and mock it.
+
+- Intercept and edit requests and responses as typed fields
+- Loop replay with fixed or random delay and fresh random data
+- One-click mock rules from any captured response
+- Export HAR, copy as cURL or as a Markdown bug report
+- Passive security audit for headers, cookies, secrets and JWTs
+- No account, and all traffic stays on your machine
+
+<a href="https://inspectly-by-rehman-tahir.vercel.app"><img src="https://img.shields.io/badge/Website-2563eb?style=flat-square&logo=googlechrome&logoColor=white" alt="Inspectly website"/></a>
+<a href="https://inspectly-by-rehman-tahir.vercel.app/docs"><img src="https://img.shields.io/badge/Docs-1e3a8a?style=flat-square&logo=readthedocs&logoColor=white" alt="Inspectly docs"/></a>
+<a href="https://github.com/MRehmanTahir/inspectly-by-rehman-tahir"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Inspectly repository"/></a>
+
+<br clear="right"/>
+
+<br/>
+
+## 🚀 Featured work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://muhammad-rehman-tahir.vercel.app/portfolio/last-minute-tours-travels"><img src="https://muhammad-rehman-tahir.vercel.app/travels.png" alt="Last Minute Tours & Travels"/></a>
+<h4>Last Minute Tours & Travels</h4>
+<sub>Enterprise tour booking and travel management platform with dynamic itineraries, PayPal payments and Azure deployment.</sub>
+<br/><br/>
+<sub><code>ASP.NET Core 9</code> <code>PayPal</code> <code>Azure</code> <code>SQL Server</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://muhammad-rehman-tahir.vercel.app/portfolio/aviation-consultancy-digital-platform"><img src="https://muhammad-rehman-tahir.vercel.app/aviation.jpg" alt="Aviation Consultancy Digital Platform"/></a>
+<h4>Aviation Consultancy Digital Platform</h4>
+<sub>Service showcase, blog and newsletter CMS, and online booking for an aviation consultancy. Owned end to end, from design to DNS.</sub>
+<br/><br/>
+<sub><code>Next.js</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Vercel</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://muhammad-rehman-tahir.vercel.app/portfolio/trade-360-pos"><img src="https://muhammad-rehman-tahir.vercel.app/trade-360.png" alt="Trade 360 POS System"/></a>
+<h4>Trade 360 — POS System</h4>
+<sub>Point-of-sale system with billing, inventory tracking, analytics dashboards and detailed sales reporting.</sub>
+<br/><br/>
+<sub><code>ASP.NET Core 8</code> <code>SQL Server</code> <code>Chart.js</code> <code>Bootstrap</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://muhammad-rehman-tahir.vercel.app/portfolio/renting-bicycle-app"><img src="https://muhammad-rehman-tahir.vercel.app/rent-bikes.png" alt="Renting Bicycle App"/></a>
+<h4>Renting Bicycle App</h4>
+<sub>Bicycle rental platform with role-based access, wallet and credit payments, QR verification and map integration.</sub>
+<br/><br/>
+<sub><code>ASP.NET Core 9</code> <code>PayPal</code> <code>Maps API</code> <code>SMTP</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://muhammad-rehman-tahir.vercel.app/portfolio/musafr-ai-travel"><img src="https://muhammad-rehman-tahir.vercel.app/musafr.png" alt="Musafr AI Travel Assistant"/></a>
+<h4>Musafr — AI Travel Assistant</h4>
+<sub>Chat-based travel assistant that suggests hotels and hostels and guides tourists, powered by DeepSeek AI.</sub>
+<br/><br/>
+<sub><code>ASP.NET Core 9 Web API</code> <code>DeepSeek AI</code> <code>SQLite</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/MRehmanTahir/Quick-Mart"><img src="https://muhammad-rehman-tahir.vercel.app/store.png" alt="Quick Mart E-Commerce"/></a>
+<h4>Quick Mart — E-Commerce</h4>
+<sub>Multi-role e-commerce app with Stripe checkout, real-time chat, order tracking and automated stock management.</sub>
+<br/><br/>
+<sub><code>ASP.NET Core 8</code> <code>Stripe</code> <code>SQL Server</code> <code>Bootstrap</code></sub>
+</td>
+</tr>
+</table>
 
 <div align="center">
-
-| &nbsp; | Role | Company | Period |
-|:---:|:---|:---|:---:|
-| 🔵 | **Dot Net Developer** | DynamicBits | Sep 2024 — Present |
-| 🔵 | **ASP.NET Developer** | DynamicBits | Mar 2024 — Present |
-| 🔵 | **Jr. .NET Developer** | DynamicBits | Sep 2023 — Mar 2024 |
-
+<a href="https://muhammad-rehman-tahir.vercel.app/portfolio"><b>See the full portfolio →</b></a>
 </div>
 
 <br/>
+
+## 🛠️ Tech stack
+
+<table>
+<tr>
+<td width="150"><b>Backend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,nestjs,py,fastapi,graphql" height="40" alt="C#, .NET, Node.js, Express, NestJS, Python, FastAPI, GraphQL"/>
+<br/><sub>ASP.NET Core · Blazor · EF Core · SignalR · WPF / WinForms · xUnit / NUnit</sub>
+</td>
+</tr>
+<tr>
+<td width="150"><b>Frontend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,nuxtjs,ts,js,redux,tailwind,bootstrap,jquery" height="40" alt="React, Next.js, Angular, Vue, Nuxt, TypeScript, JavaScript, Redux, Tailwind CSS, Bootstrap, jQuery"/>
+</td>
+</tr>
+<tr>
+<td width="150"><b>Data</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,firebase,supabase,prisma" height="40" alt="PostgreSQL, MySQL, SQLite, MongoDB, Redis, Firebase, Supabase, Prisma"/>
+<br/><sub>SQL Server · Azure Cosmos DB · AWS S3 · Cloudflare R2 · ERD design</sub>
+</td>
+</tr>
+<tr>
+<td width="150"><b>Cloud & DevOps</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=azure,aws,cloudflare,vercel,netlify,docker,kubernetes,githubactions,nginx,linux,git" height="40" alt="Azure, AWS, Cloudflare, Vercel, Netlify, Docker, Kubernetes, GitHub Actions, Nginx, Linux, Git"/>
+<br/><sub>Azure DevOps · CI/CD pipelines · Plesk</sub>
+</td>
+</tr>
+<tr>
+<td width="150"><b>Integrations</b></td>
+<td>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
+<img src="https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white" alt="PayPal"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/OAuth%202.0-3C3C3C?style=flat-square&logo=auth0&logoColor=white" alt="OAuth 2.0"/>
+<img src="https://img.shields.io/badge/AI%20%C2%B7%20DeepSeek%20%2F%20GPT-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="AI integrations"/>
+</td>
+</tr>
+<tr>
+<td width="150"><b>Testing & QA</b></td>
+<td>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/TDD-1e3a8a?style=flat-square" alt="TDD"/>
+</td>
+</tr>
+<tr>
+<td width="150"><b>Practices</b></td>
+<td><sub>Clean Architecture · SOLID · Design Patterns · Agile / SDLC · Code review · Mentoring</sub></td>
+</tr>
+</table>
+
+<br/>
+
+## 💼 Experience
+
+| Role | Company | Period |
+|:---|:---|:---|
+| **Full Stack Developer** | Watch How | Jul 2026 — Present |
+| **Dot Net Developer** | DynamicBits | Sep 2024 — Aug 2026 |
+| **ASP.NET Developer** | DynamicBits | Mar 2024 — Aug 2026 |
+| **Jr. .NET Developer** | DynamicBits | Sep 2023 — Mar 2024 |
 
 <details>
-<summary><b>🔷 Dot Net Developer — DynamicBits &nbsp; (Sep 2024 – Present)</b></summary>
+<summary><b>What I did in each role</b></summary>
 <br/>
-Spearheading development of scalable web and desktop applications using the latest .NET stack. Leading architectural decisions, enforcing engineering best practices, running comprehensive code reviews, and actively mentoring junior developers to maintain code quality and consistency across all deliverables.
-<br/><br/>
+
+**Full Stack Developer — Watch How**
+- Build end-to-end features across frontend and backend
+- Develop and integrate APIs with modern web interfaces
+- Deliver responsive, production-ready user experiences
+
+**Dot Net Developer — DynamicBits**
+- Developed scalable web and desktop applications using .NET
+- Led feature planning and technical architecture decisions
+- Mentored junior developers and ran code reviews
+
+**ASP.NET Developer — DynamicBits**
+- Delivered ASP.NET applications that met project and business goals
+- Designed and implemented scalable, custom software solutions
+- Ensured quality through rigorous testing
+
+**Jr. .NET Developer — DynamicBits**
+- Built RESTful APIs and backend services in C#
+- Optimized server performance for scalability
+- Maintained and improved existing application features
+
 </details>
 
-<details>
-<summary><b>🔷 ASP.NET Developer — DynamicBits &nbsp; (Mar 2024 – Present)</b></summary>
-<br/>
-Delivering high-quality ASP.NET Core applications that align precisely with project goals and business needs. Designing custom, scalable solutions and ensuring end-to-end quality through testing, performance profiling, and continuous iterative refinement.
-<br/><br/>
-</details>
-
-<details>
-<summary><b>🔷 Jr. .NET Developer — DynamicBits &nbsp; (Sep 2023 – Mar 2024)</b></summary>
-<br/>
-Built robust backend APIs in C#, solved complex business logic challenges, and optimized server-side performance for scalability. Collaborated closely with senior engineers and contributed actively to the product roadmap and architecture discussions.
-<br/><br/>
-</details>
-
 <br/>
 
----
-
-<br/>
-
-## 🛠️ &nbsp;Tech Stack & Skills
-
-<br/>
-
-### ⚙️ Backend & Core
+## 📊 GitHub activity
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-0078D7?style=for-the-badge&logo=windows&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-0078D7?style=for-the-badge&logo=windows&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MRehmanTahir&show_icons=true&hide_border=true&bg_color=0d1b4b&title_color=93c5fd&text_color=e2e8f0&icon_color=3b82f6&ring_color=3b82f6" alt="GitHub stats"/>
+<img height="165" src="https://streak-stats.demolab.com?user=MRehmanTahir&hide_border=true&background=0d1b4b&ring=3b82f6&fire=3b82f6&currStreakLabel=93c5fd&sideLabels=93c5fd&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8&stroke=1e3a8a" alt="GitHub streak"/>
 
 </div>
 
 <br/>
 
-### 🌐 Frontend & UI
+## 🤝 Let's connect
 
 <div align="center">
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Have a project in mind, or need a hand with a .NET codebase?**
 
-</div>
-
-<br/>
-
-### 🗄️ Databases
-
-<div align="center">
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</div>
-
-<br/>
-
-### ☁️ Cloud, DevOps & Deployment
-
-<div align="center">
-
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Plesk](https://img.shields.io/badge/Plesk-52BBE6?style=for-the-badge&logo=plesk&logoColor=white)
-
-</div>
-
-<br/>
-
-### 🔐 Auth & Integrations
-
-<div align="center">
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-3C3C3C?style=for-the-badge&logo=oauth&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)
-![SMTP](https://img.shields.io/badge/SMTP%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-![AI Integration](https://img.shields.io/badge/AI%20Integration-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
-
-<br/>
-
-### 🧪 Testing & QA
-
-<div align="center">
-
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-<br/>
-
-### 🔧 Tools & Workflow
-
-<div align="center">
-
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![BitBucket](https://img.shields.io/badge/Bitbucket-0047B3?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## 📈 &nbsp;Skill Proficiency
-
-<div align="center">
-
-| &nbsp;&nbsp;&nbsp;&nbsp;Skill Area&nbsp;&nbsp;&nbsp;&nbsp; | Level | &nbsp;&nbsp;&nbsp;&nbsp;Proficiency&nbsp;&nbsp;&nbsp;&nbsp; |
-|:---|:---:|:---:|
-| **ASP.NET Core & C#** | Expert | ██████████ 100% |
-| **RESTful API Development** | Expert | ██████████ 100% |
-| **Clean Architecture & Design Patterns** | Advanced | █████████░ &nbsp;90% |
-| **Database Design & Optimization** | Advanced | █████████░ &nbsp;90% |
-| **Azure Cloud & DevOps** | Proficient | ████████░░ &nbsp;80% |
-| **Angular / React Frontend** | Proficient | ████████░░ &nbsp;80% |
-| **Software Testing & QA** | Intermediate | ███████░░░ &nbsp;70% |
-| **AI Integrations** | Intermediate | ███████░░░ &nbsp;70% |
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## 🌐 &nbsp;Let's Connect & Collaborate
-
-<br/>
-
-<div align="center">
-
-<a href="https://muhammad-rehman-tahir.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/🌍%20Portfolio%20Website-Visit%20Now-1e3a8a?style=for-the-badge&logoColor=white" height="42"/>
-</a>
+<a href="https://muhammad-rehman-tahir.vercel.app/book"><img src="https://img.shields.io/badge/Book%20a%20free%20call-2563eb?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a free call"/></a>
+<a href="https://muhammad-rehman-tahir.vercel.app/contact"><img src="https://img.shields.io/badge/Send%20a%20message-1e3a8a?style=for-the-badge&logo=maildotru&logoColor=white" alt="Send a message"/></a>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-rehman-tahir)
-&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-Send%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.muhammadrehman@gmail.com)
-
-<br/>
-
-[![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammad-rehman-tahir)
-&nbsp;
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-View%20Answers-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22963249)
-&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@rehman.rehan.1)
-
-<br/>
-
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rehman.rehan.7370)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rehman.rehan.1)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-### &nbsp;💬 &nbsp;*"I don't just write code — I understand features from a user, business, and QA perspective."*
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="78%"/>
+<a href="https://www.linkedin.com/in/muhammad-rehman-tahir/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.upwork.com/freelancers/~0148574dffcd8fbf18"><img src="https://img.shields.io/badge/Upwork-14A800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork"/></a>
+<a href="https://www.nuget.org/profiles/Muhammad_Rehman_Tahir"><img src="https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white" alt="NuGet"/></a>
+<a href="https://dev.to/muhammd_rehman_tahir"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
+<a href="https://muhammad-rehman-tahir.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://stackoverflow.com/users/22963249"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+<a href="https://www.instagram.com/rehman.rehan.1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:dev.muhammadrehman@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
-⭐ &nbsp;**Found my work valuable? Star my repositories — it means a lot and keeps me motivated to build more!**&nbsp; ⭐
-
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=MRehmanTahir&label=Profile%20Views&icon=5&color=6&pretty=true)](https://visitcount.itsvg.in)
-
-<br/>
+<img src="https://komarev.com/ghpvc/?username=MRehmanTahir&label=Profile%20views&color=2563eb&style=flat-square" alt="Profile views"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,25:1e3a8a,50:1a2f6b,75:0d1b4b,100:0a0e27&height=140&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,25:1e3a8a,50:1a2f6b,75:0d1b4b,100:0a0e27&height=120&section=footer" width="100%" alt=""/>
